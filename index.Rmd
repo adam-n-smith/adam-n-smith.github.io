@@ -1,12 +1,43 @@
 ---
-title: "index.Rmd"
-author: "Adam Smith"
-date: "19/05/2020"
-output: html_document
+title: ''
+pagetitle: Adam N. Smith
 ---
 
-## R Markdown
+<img src="files/adam.jpeg" style="width:25%; margin-right: 20px" align="left">
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Adam N. Smith
+
+Assistant Professor of Marketing\
+UCL School of Management\
+Curriculum Vitae
+
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2615768) - [Google Scholar](https://scholar.google.com/citations?user=V48pzb0AAAAJ&hl=en) - [GitHub](https://github.com/adam-n-smith)
 
 
+<br>
+
+#### PUBLICATIONS
+
+[Inference for Product Competition and Separable Demand](files/separable_demand.pdf) (2019) with Peter Rossi and Greg Allenby, Marketing Science, 38(4): 690-710
+
+[Demand Models with Random Partitions](files/dmrp.pdf) (2020) with Greg Allenby, Journal of the American Statistical Association, 115(529): 47-65
+
+<br>
+
+#### CURRENT RESEARCH
+
+**Learned Complementarity** with Daniel Ershov
+
+Product substitution patterns are often treated as static concepts in the analysis of consumer purchase behavior. In this paper, we examine the temporal dynamics in complementarity that arise in the do-it-yourself (DIY) market. This market features consumers who purchase goods for the purpose of completing DIY projects. How consumers substitute between goods in any purchase occasion depends on the complexity of their project as well as their own knowledge of how those goods can be used together. For example, building a simple wooden bench may only require dimensional lumber, but building a more complex storage unit may call for both dimensional lumber and plywood. As consumers engage in different and more complex projects over time, so does their understanding of product complementary. Using data from a Fortune 500 specialty retailer, we first document temporal changes in consumer purchases which support complementarity dynamics. We then embed a model of learning within a demand model for bundles that allows the degree of complementarity to change over time. The implications for retailer pricing and the acceleration of consumer learning are discussed.
+
+[Shrinkage Priors for High-Dimensional Demand Estimation](files/demandpriors.pdf) with Jim Griffin
+
+We propose a new class of shrinkage priors for the price elasticity parameters of a high-dimensional log-linear demand model. Log-linear models suffer from a dimensionality problem as the number of price elasticity parameters grows quadratically in the number of goods. Traditional regularization techniques can be used to overcome this problem, but the assumption of fixed shrinkage points set to zero is often at odds with economic properties of cross-price effects. We develop a hierarchical horseshoe prior which allows the direction and rate of shrinkage to depend on a product classification tree. This allows the cross-price effects to be shrunk towards higher-level cross-category effects rather than zero. Our model is fit to store-level price and movement data. The effects on demand predictions and inference for elasticity parameters are discussed.
+
+Capturing Flexible Price Elasticities in Direct Utility Models with Chul Kim, Jaehwan Kim, and Greg Allenby
+
+This paper investigates the role of the outside good utility function on admissible substitution patterns in direct utility models of discrete/continuous demand. We first present a set of novel results that characterize the functional form of price effects within this class of models. The results highlight the relative inflexibility of many standard outside good utility functions. We then propose a new outside good utility function that admits more flexible marginal utility curves. Our empirical analysis uses household scanner panel data from the potato chip category, where we find empirical support for non-standard rates of satiation for the outside good. We then show how the restrictive substitution patterns induced by standard utility specifications may distort price elasticities and optimal pricing decisions.
+
+**An Integrated Model of Variety Seeking Dynamics** with Nobuhiko Terui, Yinxing Li, Shohei Hasegawa, and Greg Allenby
+
+This paper studies dynamics in consumers' demand for variety. We propose an integrated model that accounts for both horizontal and temporal variety seeking behavior. Horizontal variety is modeled using a multiple discrete/continuous demand framework, while temporal variety is modeled through dynamic factor structures on utility parameters. These factor models allow high-dimensional sets of utility parameters to be explained by a few latent factors that can evolve over time. This in turn gives rise to temporal dynamics in preferences and the demand for variety. We find empirical support for the proposed model in two household-level scanner panel data sets with both large and highly differentiated product assortments. We then illustrate the importance of accounting for both dimensions of variety seeking in the context of valuing assortment breadth and measuring the effectiveness of loyalty-based price promotions.
