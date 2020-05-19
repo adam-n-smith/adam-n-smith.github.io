@@ -3,8 +3,13 @@ title: ''
 pagetitle: Adam N. Smith
 ---
 
-<img src="files/adam.jpeg" style="width:25%; margin-right: 20px" align="left">
 
+:::: {style="display: flex;"}
+::: {.column width="25%"}
+<img src="files/adam.jpeg" style="width:90%; margin-right: 50px">
+:::
+
+::: {.column width="55%"}
 ## Adam N. Smith
 
 Assistant Professor of Marketing\
@@ -12,11 +17,13 @@ UCL School of Management\
 Curriculum Vitae
 
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2615768) - [Google Scholar](https://scholar.google.com/citations?user=V48pzb0AAAAJ&hl=en) - [GitHub](https://github.com/adam-n-smith)
+:::
 
+::::
 
 <br>
 
-#### PUBLICATIONS
+### PUBLICATIONS
 
 [Inference for Product Competition and Separable Demand](files/separable_demand.pdf) (2019) with Peter Rossi and Greg Allenby, Marketing Science, 38(4): 690-710
 
@@ -24,7 +31,7 @@ Curriculum Vitae
 
 <br>
 
-#### CURRENT RESEARCH
+### CURRENT RESEARCH
 
 **Learned Complementarity** with Daniel Ershov
 

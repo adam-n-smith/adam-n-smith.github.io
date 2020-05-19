@@ -1,4 +1,7 @@
+name: "Adam N. Smith"
+output_dir: "."
 output:
   html_document:
     theme: cosmo
+
 
