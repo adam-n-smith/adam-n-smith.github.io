@@ -3,33 +3,30 @@ title: ''
 pagetitle: Adam N. Smith
 ---
 
+<br>
 
 :::: {style="display: flex;"}
-::: {.column width="25%"}
-<img src="files/adam.jpeg" style="width:90%; margin-right: 50px">
+::: {.column width="33%"}
+<img src="files/adam.jpeg" style="width:95%; margin-right: 50px">
 :::
 
-::: {.column width="55%"}
+::: {.column width="66%"}
 ## Adam N. Smith
 
 Assistant Professor of Marketing\
 UCL School of Management\
-Curriculum Vitae
+[Curriculum Vitae](files/Adam Smith CV.pdf)
 
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2615768) - [Google Scholar](https://scholar.google.com/citations?user=V48pzb0AAAAJ&hl=en) - [GitHub](https://github.com/adam-n-smith)
 :::
 
 ::::
 
-<br>
-
 ### PUBLICATIONS
 
-[Inference for Product Competition and Separable Demand](files/separable_demand.pdf) (2019) with Peter Rossi and Greg Allenby, Marketing Science, 38(4): 690-710
+[Inference for Product Competition and Separable Demand](files/separable_demand.pdf) (2019) with Peter Rossi and Greg Allenby, *Marketing Science*, 38(4): 690-710
 
-[Demand Models with Random Partitions](files/dmrp.pdf) (2020) with Greg Allenby, Journal of the American Statistical Association, 115(529): 47-65
-
-<br>
+[Demand Models with Random Partitions](files/dmrp.pdf) (2020) with Greg Allenby, *Journal of the American Statistical Association*, 115(529): 47-65
 
 ### CURRENT RESEARCH
 
@@ -39,12 +36,26 @@ Product substitution patterns are often treated as static concepts in the analys
 
 [Shrinkage Priors for High-Dimensional Demand Estimation](files/demandpriors.pdf) with Jim Griffin
 
-We propose a new class of shrinkage priors for the price elasticity parameters of a high-dimensional log-linear demand model. Log-linear models suffer from a dimensionality problem as the number of price elasticity parameters grows quadratically in the number of goods. Traditional regularization techniques can be used to overcome this problem, but the assumption of fixed shrinkage points set to zero is often at odds with economic properties of cross-price effects. We develop a hierarchical horseshoe prior which allows the direction and rate of shrinkage to depend on a product classification tree. This allows the cross-price effects to be shrunk towards higher-level cross-category effects rather than zero. Our model is fit to store-level price and movement data. The effects on demand predictions and inference for elasticity parameters are discussed.
+Estimating demand for wide assortments of differentiated goods requires the specification of a demand system that is sufficiently flexible. However, flexible models contain many parameters and will require regularization in high dimensions. For example, log-linear models suffer from a curse of dimensionality as the number of price elasticity parameters grows quadratically in the number of goods. In this paper, we study the specification of Bayesian shrinkage priors for price elasticity parameters within a log-linear demand system. Traditional regularized estimators assume fixed shrinkage points set to zero which can be at odds with many economic properties of cross-price effects. We propose a hierarchical extension of the class of global-local priors to allow the direction and rate of shrinkage to depend on a product classification tree. We use both simulated data and retail scanner data to show that, in the absence of a strong signal in the data, estimates of cross-price elasticities and demand predictions can be improved by imposing shrinkage to higher-level group effects rather than zero. 
 
-Capturing Flexible Price Elasticities in Direct Utility Models with Chul Kim, Jaehwan Kim, and Greg Allenby
+[Capturing Flexible Price Elasticities in Direct Utility Models](files/outsidegood.pdf) with Chul Kim, Jaehwan Kim, and Greg Allenby
 
 This paper investigates the role of the outside good utility function on admissible substitution patterns in direct utility models of discrete/continuous demand. We first present a set of novel results that characterize the functional form of price effects within this class of models. The results highlight the relative inflexibility of many standard outside good utility functions. We then propose a new outside good utility function that admits more flexible marginal utility curves. Our empirical analysis uses household scanner panel data from the potato chip category, where we find empirical support for non-standard rates of satiation for the outside good. We then show how the restrictive substitution patterns induced by standard utility specifications may distort price elasticities and optimal pricing decisions.
 
 **An Integrated Model of Variety Seeking Dynamics** with Nobuhiko Terui, Yinxing Li, Shohei Hasegawa, and Greg Allenby
 
 This paper studies dynamics in consumers' demand for variety. We propose an integrated model that accounts for both horizontal and temporal variety seeking behavior. Horizontal variety is modeled using a multiple discrete/continuous demand framework, while temporal variety is modeled through dynamic factor structures on utility parameters. These factor models allow high-dimensional sets of utility parameters to be explained by a few latent factors that can evolve over time. This in turn gives rise to temporal dynamics in preferences and the demand for variety. We find empirical support for the proposed model in two household-level scanner panel data sets with both large and highly differentiated product assortments. We then illustrate the importance of accounting for both dimensions of variety seeking in the context of valuing assortment breadth and measuring the effectiveness of loyalty-based price promotions.
+
+### TEACHING
+
+**Undergraduate Data Analytics**
+
+- Textbook: [Data Analytics with R](https://adam-n-smith.github.io/MSIN0010/)
+
+**PhD Seminar on Bayesian Statistics and Marketing**
+
+- [Bayesian Linear Regression](files/bayesian_regression.pdf)
+- [Cholesky Decomposition](files/cholesky_decomposition.pdf)
+- [Gibbs Sampling](files/gibbs_sampling.pdf)
+- [Monte Carlo Integration and Importance Sampling](files/mc_integration.pdf)
+
