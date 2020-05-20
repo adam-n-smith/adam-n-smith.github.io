@@ -3,10 +3,9 @@ title: ''
 pagetitle: Adam N. Smith
 ---
 
-<br>
-
-:::: {style="display: flex;"}
+:::: {style="display: flex"}
 ::: {.column width="33%"}
+<br>
 <img src="files/adam.jpeg" style="width:90%; margin-right: 50px">
 :::
   
