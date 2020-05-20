@@ -6,11 +6,11 @@ pagetitle: Adam N. Smith
 <br>
 
 :::: {style="display: flex;"}
-::: {.column width="33%"}
-<img src="files/adam.jpeg" style="width:95%; margin-right: 50px">
+::: {.column width="40%"}
+<img src="files/adam.jpeg" style="width:90%; margin-right: 50px">
 :::
-
-::: {.column width="66%"}
+  
+::: {.column width="50%"}
 ## Adam N. Smith
 
 Assistant Professor of Marketing\
@@ -19,9 +19,9 @@ UCL School of Management\
 
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2615768) - [Google Scholar](https://scholar.google.com/citations?user=V48pzb0AAAAJ&hl=en) - [GitHub](https://github.com/adam-n-smith)
 :::
-
+  
 ::::
-
+  
 ### PUBLICATIONS
 
 [Inference for Product Competition and Separable Demand](files/separabledemand.pdf) (2019) \
