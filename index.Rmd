@@ -10,7 +10,7 @@ pagetitle: Adam N. Smith
 <img src="files/adam.jpeg" style="width:90%; margin-right: 50px">
 :::
   
-::: {.column width="50%"}
+::: {.column width="66%"}
 ## Adam N. Smith
 
 Assistant Professor of Marketing\
