@@ -24,9 +24,9 @@ UCL School of Management\
 
 ### PUBLICATIONS
 
-[Inference for Product Competition and Separable Demand](files/separable_demand.pdf) (2019) with Peter Rossi and Greg Allenby, *Marketing Science*, 38(4): 690-710
+[Inference for Product Competition and Separable Demand](files/separabledemand.pdf) (2019) with Peter Rossi and Greg Allenby, *Marketing Science*, 38(4): 690-710 [[online appendix](files/separabledemand_appendix.pdf)]
 
-[Demand Models with Random Partitions](files/dmrp.pdf) (2020) with Greg Allenby, *Journal of the American Statistical Association*, 115(529): 47-65
+[Demand Models with Random Partitions](files/dmrp.pdf) (2020) with Greg Allenby, *Journal of the American Statistical Association*, 115(529): 47-65 [[online appendix](files/dmrp_appendix.pdf)]
 
 ### CURRENT RESEARCH
 
