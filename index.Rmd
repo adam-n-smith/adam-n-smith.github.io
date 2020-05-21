@@ -30,7 +30,7 @@ with Peter Rossi and Greg Allenby, *Marketing Science*, 38(4): 690-710\
 
 [Demand Models with Random Partitions](files/research/dmrp.pdf) (2020)\
 with Greg Allenby, *Journal of the American Statistical Association*, 115(529): 47-65\
-[[online appendix]](files/research/dmrp_appendix.pdf)
+[[online appendix]](files/research/dmrp_appendix.pdf) [[code]](https://github.com/adam-n-smith/demand-models-random-partitions)
 
 ### CURRENT RESEARCH
 
