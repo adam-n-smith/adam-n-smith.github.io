@@ -14,6 +14,7 @@ pagetitle: Adam N. Smith
 
 Assistant Professor of Marketing\
 UCL School of Management\
+University College London\
 [Curriculum Vitae](files/Adam Smith CV.pdf)
 
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2615768) - [Google Scholar](https://scholar.google.com/citations?user=V48pzb0AAAAJ&hl=en) - [GitHub](https://github.com/adam-n-smith)
@@ -25,11 +26,11 @@ UCL School of Management\
 
 [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf) (2019) \
 with Peter Rossi and Greg Allenby, *Marketing Science*, 38(4): 690-710\
-[[online appendix](files/research/separabledemand_appendix.pdf)]
+[[online appendix]](files/research/separabledemand_appendix.pdf)
 
 [Demand Models with Random Partitions](files/research/dmrp.pdf) (2020)\
 with Greg Allenby, *Journal of the American Statistical Association*, 115(529): 47-65\
-[[online appendix](files/research/dmrp_appendix.pdf)]
+[[online appendix]](files/research/dmrp_appendix.pdf)
 
 ### CURRENT RESEARCH
 
@@ -53,7 +54,7 @@ This paper studies dynamics in consumers' demand for variety. We propose an inte
 
 **Undergraduate Data Analytics**
 
-- Textbook: [Data Analytics with R](https://adam-n-smith.github.io/MSIN0010/)
+- [Data Analytics with R (Textbook)](https://adam-n-smith.github.io/MSIN0010/)
 
 **PhD Seminar on Bayesian Statistics and Marketing**
 
