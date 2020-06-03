@@ -1,11 +1,29 @@
-/* Whole document: */
+/* Whole document */
 body{
   font-size: 12pt;
 }
+
 /* Headers */
 h1,h2{
   font-size: 24pt;
 }
 h3,h4,h5,h6{
   font-size: 18pt;
+  border-bottom: 1px solid lightgray;
+}
+
+@counter-style dash {
+  system: cyclic;
+  symbols: "–";
+  suffix: " ";
+}
+
+/* Bullets */
+
+ul {
+  list-style-type: disc;
+}
+
+ul ul{
+  list-style-type: circle;
 }

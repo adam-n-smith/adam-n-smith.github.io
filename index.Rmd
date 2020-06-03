@@ -21,8 +21,7 @@ University College London\
   
 ::::
   
-### PUBLICATIONS
-
+### PUBLICATIONS 
 [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf) (2019) \
 with Peter Rossi and Greg Allenby, *Marketing Science*, 38(4): 690-710\
 [[online appendix]](files/research/separabledemand_appendix.pdf)
@@ -32,33 +31,28 @@ with Greg Allenby, *Journal of the American Statistical Association*, 115(529): 
 [[online appendix]](files/research/dmrp_appendix.pdf) [[code]](https://github.com/adam-n-smith/demand-models-random-partitions)
 
 ### CURRENT RESEARCH
-
-**Learned Complementarity** with Daniel Ershov
-
-Product substitution patterns are often treated as static concepts in the analysis of consumer purchase behavior. In this paper, we examine the temporal dynamics in complementarity that arise in the do-it-yourself (DIY) market. This market features consumers who purchase goods for the purpose of completing DIY projects. How consumers substitute between goods in any purchase occasion depends on the complexity of their project as well as their own knowledge of how those goods can be used together. For example, building a simple wooden bench may only require dimensional lumber, but building a more complex storage unit may call for both dimensional lumber and plywood. As consumers engage in different and more complex projects over time, so does their understanding of product complementary. Using data from a Fortune 500 specialty retailer, we first document temporal changes in consumer purchases which support complementarity dynamics. We then embed a model of learning within a demand model for bundles that allows the degree of complementarity to change over time. The implications for retailer pricing and the acceleration of consumer learning are discussed.
+Learned Complementarity with Daniel Ershov
 
 [Shrinkage Priors for High-Dimensional Demand Estimation](files/research/demandpriors.pdf) with Jim Griffin
 
-Estimating demand for wide assortments of differentiated goods requires the specification of a demand system that is sufficiently flexible. However, flexible models contain many parameters and will require regularization in high dimensions. For example, log-linear models suffer from a curse of dimensionality as the number of price elasticity parameters grows quadratically in the number of goods. In this paper, we study the specification of Bayesian shrinkage priors for price elasticity parameters within a log-linear demand system. Traditional regularized estimators assume fixed shrinkage points set to zero which can be at odds with many economic properties of cross-price effects. We propose a hierarchical extension of the class of global-local priors to allow the direction and rate of shrinkage to depend on a product classification tree. We use both simulated data and retail scanner data to show that, in the absence of a strong signal in the data, estimates of cross-price elasticities and demand predictions can be improved by imposing shrinkage to higher-level group effects rather than zero. 
-
 [Capturing Flexible Price Elasticities in Direct Utility Models](files/research/outsidegood.pdf) with Chul Kim, Jaehwan Kim, and Greg Allenby
 
-This paper investigates the role of the outside good utility function on admissible substitution patterns in direct utility models of discrete/continuous demand. We first present a set of novel results that characterize the functional form of price effects within this class of models. The results highlight the relative inflexibility of many standard outside good utility functions. We then propose a new outside good utility function that admits more flexible marginal utility curves. Our empirical analysis uses household scanner panel data from the potato chip category, where we find empirical support for non-standard rates of satiation for the outside good. We then show how the restrictive substitution patterns induced by standard utility specifications may distort price elasticities and optimal pricing decisions.
-
-**An Integrated Model of Variety Seeking Dynamics** with Nobuhiko Terui, Yinxing Li, Shohei Hasegawa, and Greg Allenby
-
-This paper studies dynamics in consumers' demand for variety. We propose an integrated model that accounts for both horizontal and temporal variety seeking behavior. Horizontal variety is modeled using a multiple discrete/continuous demand framework, while temporal variety is modeled through dynamic factor structures on utility parameters. These factor models allow high-dimensional sets of utility parameters to be explained by a few latent factors that can evolve over time. This in turn gives rise to temporal dynamics in preferences and the demand for variety. We find empirical support for the proposed model in two household-level scanner panel data sets with both large and highly differentiated product assortments. We then illustrate the importance of accounting for both dimensions of variety seeking in the context of valuing assortment breadth and measuring the effectiveness of loyalty-based price promotions.
+An Integrated Model of Variety Seeking Dynamics with Nobuhiko Terui, Yinxing Li, Shohei Hasegawa, and Greg Allenby
 
 ### TEACHING
 
-**Undergraduate Data Analytics**
+UCL School of Management
 
-- [Data Analytics with R (Textbook)](https://adam-n-smith.github.io/MSIN0010/)
+* MSIN0010: Data Analytics I [[syllabus]](files/teaching/MSIN0010_syllabus.pdf) [[textbook: Data Analytics with R]](https://adam-n-smith.github.io/MSIN0010/)
 
-**PhD Seminar on Bayesian Statistics and Marketing**
+* MSIN0041: Marketing Science [[syllabus]](files/teaching/MSIN0041_syllabus.pdf)
 
-- [Bayesian Linear Regression](files/teaching/bayesian_regression.pdf)
-- [Cholesky Decomposition](files/teaching/cholesky_decomposition.pdf)
-- [Gibbs Sampling](files/teaching/gibbs_sampling.pdf)
-- [Monte Carlo Integration and Importance Sampling](files/teaching/mc_integration.pdf)
+Ohio State University
 
+* PhD Seminar on Bayesian Statistics and Marketing
+
+  + [Bayesian Linear Regression](files/teaching/bayesian_regression.pdf)
+  + [Cholesky Decomposition](files/teaching/cholesky_decomposition.pdf)
+  + [Gibbs Sampling](files/teaching/gibbs_sampling.pdf)
+  + [Monte Carlo Integration and Importance Sampling](files/teaching/mc_integration.pdf)\
+\
