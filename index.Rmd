@@ -6,7 +6,7 @@ pagetitle: Adam N. Smith
 :::: {style="display: flex"}
 ::: {.column width="40%"}
 <br>
-<img src="files/adam.jpeg" style="width:95%; margin-right:50px">
+<img src="files/adam_smith.jpg" style="width:95%; margin-right:50px">
 :::
   
 ::: {.column width="60%"}
