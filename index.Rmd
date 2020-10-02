@@ -51,13 +51,4 @@ UCL School of Management
 * MSIN0010: Data Analytics I [[syllabus]](files/teaching/MSIN0010_syllabus.pdf) [[textbook: Data Analytics with R]](https://adam-n-smith.github.io/MSIN0010/)
 
 * MSIN0041: Marketing Science [[syllabus]](files/teaching/MSIN0041_syllabus.pdf)
-
-Ohio State University
-
-* PhD Seminar on Bayesian Statistics and Marketing
-
-  + [Bayesian Linear Regression](files/teaching/bayesian_regression.pdf)
-  + [Cholesky Decomposition](files/teaching/cholesky_decomposition.pdf)
-  + [Gibbs Sampling](files/teaching/gibbs_sampling.pdf)
-  + [Monte Carlo Integration and Importance Sampling](files/teaching/mc_integration.pdf)\
 \
