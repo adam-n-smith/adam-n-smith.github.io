@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -22,6 +22,15 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+      </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -84,7 +93,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -146,6 +154,7 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -157,18 +166,6 @@ summary {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -229,19 +226,8 @@ University College London<br />
 <p>UCL School of Management</p>
 <ul>
 <li><p>MSIN0010: Data Analytics I <a href="files/teaching/MSIN0010_syllabus.pdf">[syllabus]</a> <a href="https://adam-n-smith.github.io/MSIN0010/">[textbook: Data Analytics with R]</a></p></li>
-<li><p>MSIN0041: Marketing Science <a href="files/teaching/MSIN0041_syllabus.pdf">[syllabus]</a></p></li>
-</ul>
-<p>Ohio State University</p>
-<ul>
-<li><p>PhD Seminar on Bayesian Statistics and Marketing</p>
-<ul>
-<li><a href="files/teaching/bayesian_regression.pdf">Bayesian Linear Regression</a></li>
-<li><a href="files/teaching/cholesky_decomposition.pdf">Cholesky Decomposition</a></li>
-<li><a href="files/teaching/gibbs_sampling.pdf">Gibbs Sampling</a></li>
-<li><a href="files/teaching/mc_integration.pdf">Monte Carlo Integration and Importance Sampling</a><br />
-<br />
-</li>
-</ul></li>
+<li><p>MSIN0041: Marketing Science <a href="files/teaching/MSIN0041_syllabus.pdf">[syllabus]</a><br />
+</p></li>
 </ul>
 </div>
 
@@ -262,6 +248,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
