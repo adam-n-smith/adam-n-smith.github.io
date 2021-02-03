@@ -5,9 +5,9 @@ pagetitle: Adam N. Smith
 
 <img align="left" src="files/adam_smith.jpg" 
 style="width:40%; max-width:33rem; 
-padding-right:2.5%; padding-top:1.5em; padding-bottom:1%">
+padding-right:2.5%; padding-top:5%; padding-bottom:2.5%">
 
-<div style="padding-right:5%; padding-top:1.5em">
+<div align="left" style="display: inline-block; padding-right:5%; padding-top:5%">
 **ADAM N. SMITH**\
 Assistant Professor of Marketing\
 UCL School of Management\
