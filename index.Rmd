@@ -4,9 +4,10 @@ pagetitle: Adam N. Smith
 ---
 
 <img align="left" src="files/adam_smith.jpg" 
-style="width:33%; padding-right:2.5%; padding-top:5%; padding-bottom:2.5%">
+style="width:40%; max-width:20em; 
+padding-right:2.5%; padding-top:1.5em; padding-bottom:1%">
 
-<div style="padding-right:5%; padding-top:5%">
+<div style="padding-right:5%; padding-top:1.5em">
 **ADAM N. SMITH**\
 Assistant Professor of Marketing\
 UCL School of Management\
@@ -17,7 +18,7 @@ University College London\
 
 <div style="clear: both;"></div>
 
-<h3> PUBLICATIONS </h3>
+<h3> **PUBLICATIONS** </h3>
 [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf)\
 with Peter Rossi and Greg Allenby\
 *Marketing Science*, 2019\
@@ -28,7 +29,7 @@ with Greg Allenby\
 *Journal of the American Statistical Association*, 2020\
 [[online appendix]](files/research/dmrp_appendix.pdf) [[code]](https://github.com/adam-n-smith/demand-models-random-partitions)
 
-<h3> CURRENT RESEARCH </h3>
+<h3> **CURRENT RESEARCH** </h3>
 
 [Shrinkage Priors for High-Dimensional Demand Estimation](files/research/demandpriors.pdf) with Jim Griffin
 
@@ -42,7 +43,7 @@ Optimal Price Targeting with Stephan Seiler and Ishant Aggarwal
 
 Boundaries of Differentiated Product Markets and Retailer Pricing with Giovanni Compiani
 
-<h3> TEACHING </h3>
+<h3> **TEACHING** </h3>
 
 UCL School of Management
 
