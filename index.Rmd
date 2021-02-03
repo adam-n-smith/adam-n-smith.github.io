@@ -3,24 +3,20 @@ title: ''
 pagetitle: Adam N. Smith
 ---
 
-:::: {style="display: flex"}
-::: {.column width="40%"}
-<br>
-<img src="files/adam_smith.jpg" style="width:95%; margin-right:50px">
-:::
-  
-::: {.column width="60%"}
-<h2> Adam N. Smith </h2>
+<img align="left" src="files/adam_smith.jpg" 
+style="width:33%; padding-right:2.5%; padding-top:5%; padding-bottom:2.5%">
 
+<div style="padding-right:5%; padding-top:5%">
+**ADAM N. SMITH**\
 Assistant Professor of Marketing\
 UCL School of Management\
 University College London\
 [Curriculum Vitae](files/Smith_CV.pdf)\
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2615768) - [Google Scholar](https://scholar.google.com/citations?user=V48pzb0AAAAJ&hl=en) - [GitHub](https://github.com/adam-n-smith)
-:::
-  
-::::
-  
+</div>
+
+<div style="clear: both;"></div>
+
 <h3> PUBLICATIONS </h3>
 [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf)\
 with Peter Rossi and Greg Allenby\
