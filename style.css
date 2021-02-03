@@ -4,11 +4,14 @@ body{
 }
 
 /* Headers */
-h1,h2{
+h1{
   font-size: 24pt;
 }
+h2{
+  font-size: 16pt;
+}
 h3,h4,h5,h6{
-  font-size: 18pt;
+  font-size: 16pt;
   border-bottom: 1px solid lightgray;
 }
 
