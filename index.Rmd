@@ -51,4 +51,5 @@ UCL School of Management
 * MSIN0010: Data Analytics I [[syllabus]](files/teaching/MSIN0010_syllabus.pdf) [[textbook: Data Analytics with R]](https://adam-n-smith.github.io/MSIN0010/)
 
 * MSIN0041: Marketing Science [[syllabus]](files/teaching/MSIN0041_syllabus.pdf)
-\
+
+<br>
