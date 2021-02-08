@@ -3,8 +3,8 @@ title: ''
 pagetitle: Adam N. Smith
 ---
 
-<img align="left" src="files/adam_smith.jpg" 
-style="width:66%; max-width:33rem;  
+<img align="left" src="files/adam-smith.jpg" 
+style="width:75%; max-width:40rem;  
 padding-right:2.5%; padding-top:5%; padding-bottom:1%">
 
 <div align="left" style="display: inline-block; padding-top:2.5%">
