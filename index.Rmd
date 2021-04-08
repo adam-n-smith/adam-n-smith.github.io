@@ -30,7 +30,11 @@ with Greg Allenby\
 *Journal of the American Statistical Association*, 2020\
 [[online appendix]](files/research/dmrp_appendix.pdf) [[code]](https://github.com/adam-n-smith/demand-models-random-partitions)
 
+Invited Discussion of "Centered Partition Processes: Informative Priors for Clustering"\
+*Bayesian Analysis, forthcoming*\
 <h3> **CURRENT RESEARCH** </h3>
+
+[Optimal Price Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822459) with Stephan Seiler and Ishant Aggarwal\
 
 [Shrinkage Priors for High-Dimensional Demand Estimation](files/research/demandpriors.pdf) with Jim Griffin
 
@@ -39,8 +43,6 @@ with Greg Allenby\
 [Integrated Factor Models of Variety Seeking Dynamics](files/research/preference_dynamics.pdf) with Yinxing Li, Shohei Hasegawa, Nobuhiko Terui, and Greg Allenby
 
 Learned Complementarity with Daniel Ershov
-
-Optimal Price Targeting with Stephan Seiler and Ishant Aggarwal
 
 Boundaries of Differentiated Product Markets and Retailer Pricing with Giovanni Compiani
 
