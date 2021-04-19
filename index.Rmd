@@ -37,7 +37,7 @@ University College London\
 
 2. [Shrinkage Priors for High-Dimensional Demand Estimation](files/research/demandpriors.pdf) with Jim Griffin
 
-3. [Capturing Flexible Price Elasticities in Direct Utility Models](files/research/outsidegood.pdf) with Chul Kim, Jaehwan Kim, and Greg Allenby
+3. [Capturing Flexible Price Elasticities in Direct Utility Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3539001) with Chul Kim, Jaehwan Kim, and Greg Allenby
 
 4. [Integrated Factor Models of Variety Seeking Dynamics](files/research/preference_dynamics.pdf) with Yinxing Li, Shohei Hasegawa, Nobuhiko Terui, and Greg Allenby
 
