@@ -35,7 +35,7 @@ University College London\
 
 1. [Optimal Price Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822459) with Stephan Seiler and Ishant Aggarwal\
 
-2. [Shrinkage Priors for High-Dimensional Demand Estimation](files/research/demandpriors.pdf) with Jim Griffin
+2. [Shrinkage Priors for High-Dimensional Demand Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3833417) with Jim Griffin
 
 3. [Capturing Flexible Price Elasticities in Direct Utility Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3539001) with Chul Kim, Jaehwan Kim, and Greg Allenby
 
