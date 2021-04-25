@@ -28,8 +28,8 @@ University College London\
 **Journal of the American Statistical Association**, with Greg Allenby (2020)\
 [[online appendix]](files/research/dmrp_appendix.pdf) [[code]](https://github.com/adam-n-smith/demand-models-random-partitions)
 
-3. Discussion of "Centered Partition Processes: Informative Priors for Clustering"\
-**Bayesian Analysis** (forthcoming)\
+3. [Discussion of "Centered Partition Processes: Informative Priors for Clustering"](files/research/cp_discussion.pdf)\
+**Bayesian Analysis** (2021)\
 
 <h3> CURRENT RESEARCH </h3>
 
