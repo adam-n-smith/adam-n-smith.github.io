@@ -6,12 +6,14 @@ body{
 /* Headers */
 h1{
   font-size: 20pt;
+  font-weight: normal;
 }
 h2{
   font-size: 16pt;
 }
 h3,h4,h5,h6{
   font-size: 16pt;
+  font-weight: normal;
   border-bottom: 1px solid lightgray;
 }
 
