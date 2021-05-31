@@ -8,7 +8,7 @@ style="width:75%; max-width:40rem;
 padding-right:2.5%; padding-top:5%; padding-bottom:1%">
 
 <div align="left" style="display: inline-block; padding-top:2.5%">
-<h1>ADAM N. SMITH</h1>
+<h1>Adam N. Smith</h1>
 Assistant Professor of Marketing\
 UCL School of Management\
 University College London\
@@ -19,7 +19,7 @@ University College London\
 
 <div style="clear: both;"></div>
 
-<h3> PUBLICATIONS </h3>
+<h3> Publications </h3>
 1. [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf)\
 **Marketing Science**, with Peter Rossi and Greg Allenby (2019)\
 [[online appendix]](files/research/separabledemand_appendix.pdf)
@@ -31,7 +31,7 @@ University College London\
 3. [Discussion of "Centered Partition Processes: Informative Priors for Clustering"](files/research/cp_discussion.pdf)\
 **Bayesian Analysis** (2021)\
 
-<h3> CURRENT RESEARCH </h3>
+<h3> Current Research </h3>
 
 1. [Optimal Price Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822459)\
 with Stephan Seiler and Ishant Aggarwal (April 2021)\
@@ -54,7 +54,7 @@ with Giovanni Compiani
 7. Constrained Heterogeneity\
 with Tetyana Kosyakova, Thomas Otter, and Max Pachali
 
-<h3> TEACHING </h3>
+<h3> Teaching </h3>
 
 UCL School of Management
 
