@@ -1,5 +1,6 @@
 /* Whole document */
 body{
+  font-family: arial;
   font-weight: normal;
   font-size: 11pt;
 }
@@ -7,6 +8,7 @@ body{
 /* Headers */
 h1{
   color: black;
+  font-family: arial;
   font-size: 20pt;
   font-weight: 400;
 }
@@ -15,6 +17,7 @@ h2{
 }
 h3,h4,h5,h6{
   color: black;
+  font-family: arial;
   font-size: 16pt;
   font-weight: 400;
   border-bottom: 1px solid lightgray;
