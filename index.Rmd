@@ -19,17 +19,7 @@ University College London\
 
 <div style="clear: both;"></div>
 
-<h3> Publications </h3>
-<!-- 1. [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf)\ -->
-<!-- **Marketing Science**, with P. Rossi and G. Allenby (2019)\ -->
-<!-- [[online appendix]](files/research/separabledemand_appendix.pdf) -->
-
-<!-- 2. [Demand Models with Random Partitions](files/research/dmrp.pdf)\ -->
-<!-- **Journal of the American Statistical Association**, with G. Allenby (2020)\ -->
-<!-- [[online appendix]](files/research/dmrp_appendix.pdf) [[code]](https://github.com/adam-n-smith/demand-models-random-partitions) -->
-
-<!-- 3. [Discussion of "Centered Partition Processes: Informative Priors for Clustering"](files/research/cp_discussion.pdf)\ -->
-<!-- **Bayesian Analysis** (2021)\ -->
+<h2> Publications </h2>
 
 1. [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf)\
 **Marketing Science**, with Peter Rossi and Greg Allenby (2019)\
@@ -42,7 +32,7 @@ University College London\
 3. [Discussion of "Centered Partition Processes: Informative Priors for Clustering"](files/research/cp_discussion.pdf)\
 **Bayesian Analysis** (2021)\
 
-<h3> Current Research </h3>
+<h2> Current Research </h2>
 
 1. [Optimal Price Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822459)\
 with Stephan Seiler and Ishant Aggarwal (Apr 2021)\
@@ -65,7 +55,7 @@ with Giovanni Compiani
 7. Constrained Heterogeneity\
 with Tetyana Kosyakova, Thomas Otter, and Max Pachali
 
-<h3> Teaching </h3>
+<h2> Teaching </h2>
 
 UCL School of Management
 
