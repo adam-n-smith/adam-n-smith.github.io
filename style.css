@@ -3,6 +3,9 @@ body{
   font-family: arial;
   font-weight: lighter;
   font-size: 10.25pt;
+  width: 40%;
+  min-width: 45rem;
+  margin: auto;
 }
 
 /* Headers */
@@ -17,7 +20,8 @@ h2{
   font-family: arial;
   font-size: 14pt;
   font-weight: 400;
-  border-bottom: 1px solid lightgray;
+  border-bottom: 1px solid black;
+  padding-bottom: 2px;
 }
 h3{
   font-family: arial;
@@ -33,10 +37,16 @@ h3{
 
 /* Bullets */
 ul {
-  list-style-type: disc;
+  list-style-type: none;
 }
 ul ul{
-  list-style-type: circle;
+  list-style-type: none;
+}
+
+ul > li:before {
+  content: "–"; /* en dash */
+  position: absolute;
+  margin-left: -1.1em; 
 }
 
 li {
