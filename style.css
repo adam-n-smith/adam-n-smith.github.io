@@ -4,7 +4,8 @@ body{
   font-weight: lighter;
   font-size: 10.25pt;
   min-width: 30%;
-  max-width: 45em;
+  /* max-width: 45em; */
+  max-width: 46em;
   margin: auto;
 }
 
@@ -51,4 +52,11 @@ ul > li:before {
 
 li {
   margin-left: -15pt;
+}
+
+img {
+  padding: 5% 2.5% 1% 0%;
+  width: 60%;
+  /* min-width: 35rem; */
+  min-width: 38rem;
 }

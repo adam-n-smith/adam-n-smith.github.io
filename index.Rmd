@@ -3,9 +3,11 @@ title: ''
 pagetitle: Adam N. Smith
 ---
 
-<img align="left" src="files/adam-smith.jpg" 
-style="width:60%; max-width:40rem;  
-padding-right:2.5%; padding-top:5%; padding-bottom:1%">
+<!-- <img align="left" src="files/adam-smith.jpg"  -->
+<!-- style="width:60%; max-width:40rem;   -->
+<!-- padding-right:2.5%; padding-top:5%; padding-bottom:1%"> -->
+
+<img align="left" src="files/adam-smith.jpg">
 
 <div align="left" style="display: inline-block; padding-top:2.5%">
 <h1>Adam N. Smith</h1>
@@ -13,7 +15,7 @@ Assistant Professor of Marketing\
 UCL School of Management\
 University College London\
 
-[Curriculum Vitae](files/smith_cv.pdf)\
+[Curriculum Vitae](files/smith-cv.pdf)\
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2615768) - [Google Scholar](https://scholar.google.com/citations?user=V48pzb0AAAAJ&hl=en) - [GitHub](https://github.com/adam-n-smith)
 </div>
 
@@ -25,11 +27,20 @@ University College London\
 
 1. [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf)\
 **Marketing Science**, with Peter Rossi and Greg Allenby (2019)\
-[[online appendix]](files/research/separabledemand_appendix.pdf)
+<!-- [[online appendix]](files/research/separabledemand_appendix.pdf) -->
+<a 
+href="files/research/separabledemand_appendix.pdf" 
+style="color:rgb(51,51,51);">[online appendix]</a>
 
 2. [Demand Models with Random Partitions](files/research/dmrp.pdf)\
 **Journal of the American Statistical Association**, with Greg Allenby (2020)\
-[[online appendix]](files/research/dmrp_appendix.pdf) [[code]](https://github.com/adam-n-smith/demand-models-random-partitions)
+<!-- [[online appendix]](files/research/dmrp_appendix.pdf) [[code]](https://github.com/adam-n-smith/demand-models-random-partitions) -->
+<a 
+href="files/research/dmrp_appendix.pdf" 
+style="color:rgb(51,51,51);">[online appendix]</a>
+<a 
+href="https://github.com/adam-n-smith/demand-models-random-partitions" 
+style="color:rgb(51,51,51);">[code]</a>
 
 3. [Discussion of "Centered Partition Processes: Informative Priors for Clustering"](files/research/cp_discussion.pdf)\
 **Bayesian Analysis** (2021)\
@@ -46,7 +57,7 @@ University College London\
 <h2> Current Research </h2>
 
 1. [Optimal Price Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822459)\
-with Stephan Seiler and Ishant Aggarwal (Apr 2021)\
+R&R at **Marketing Science**, with Stephan Seiler and Ishant Aggarwal (Apr 2021)\
 
 2. [Shrinkage Priors for High-Dimensional Demand Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3833417)\
 with Jim Griffin (Apr 2021)
@@ -70,8 +81,29 @@ with Tetyana Kosyakova, Thomas Otter, and Max Pachali
 
 UCL School of Management
 
-* MSIN0010: Data Analytics I [[syllabus]](files/teaching/MSIN0010_syllabus.pdf) [[textbook: Data Analytics with R]](https://adam-n-smith.github.io/MSIN0010/)
+* [MSIN0010: Data Analytics I](https://www.ucl.ac.uk/module-catalogue/modules/data-analytics-i-statistics-and-data-mining/MSIN0010) 
+<!-- [[syllabus]](files/teaching/MSIN0010_syllabus.pdf)  -->
+<!-- [[textbook: Data Analytics with R]](https://adam-n-smith.github.io/MSIN0010/) -->
+<a 
+href="files/teaching/MSIN0010_syllabus.pdf" 
+style="color:rgb(51,51,51);">[syllabus]</a>
+<a 
+href="https://adam-n-smith.github.io/MSIN0010/" 
+style="color:rgb(51,51,51);">[textbook: Data Analytics with R]</a>
+* [MSIN0041: Marketing Science](https://www.ucl.ac.uk/module-catalogue/modules/marketing-science/MSIN0041) 
+<!-- [[syllabus]](files/teaching/MSIN0041_syllabus.pdf) -->
+<a 
+href="files/teaching/MSIN0041_syllabus.pdf" 
+style="color:rgb(51,51,51);">[syllabus]</a>
 
-* MSIN0041: Marketing Science [[syllabus]](files/teaching/MSIN0041_syllabus.pdf)
+<h2> Notes </h2>
+
+* [Bayesian Foundations](files/notes/bayes-foundations.pdf)
+* [Bayesian Decision Theory](files/notes/bayes-decision-theory.pdf)
+* [Bayesian Asymptotics](files/notes/bayes-asymptotics.pdf)
+* [Bayesian Computation and MCMC](files/notes/bayes-mcmc.pdf)
+* [Bayesian Linear Regression](files/notes/bayes-regression.pdf)
+* [BLP](files/notes/blp.pdf)
+* [Multiple-Discrete/Continuous Demand](files/notes/mdc-simulation.pdf)
 
 <br>
