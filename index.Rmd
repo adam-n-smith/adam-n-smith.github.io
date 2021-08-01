@@ -104,6 +104,6 @@ style="color:rgb(51,51,51);">[syllabus]</a>
 * [Bayesian Computation and MCMC](files/notes/bayes-mcmc.pdf)
 * [Bayesian Linear Regression](files/notes/bayes-regression.pdf)
 * [BLP](files/notes/blp.pdf)
-* [Multiple-Discrete/Continuous Demand](files/notes/mdc-simulation.pdf)
+* [Multiple Discrete/Continuous Demand](files/notes/mdc-simulation.pdf)
 
 <br>
