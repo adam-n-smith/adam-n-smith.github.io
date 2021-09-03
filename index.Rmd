@@ -1,6 +1,7 @@
 ---
 title: ''
 pagetitle: Adam N. Smith
+theme: minima
 ---
 
 <!-- <img align="left" src="files/adam-smith.jpg"  -->
@@ -62,17 +63,17 @@ R&R at **Marketing Science**, with Stephan Seiler and Ishant Aggarwal (Apr 2021)
 2. [Shrinkage Priors for High-Dimensional Demand Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3833417)\
 R&R at **Quantitative Marketing and Economics**, with Jim Griffin (Apr 2021)
 
-3. [Integrated Factor Models of Variety Seeking Dynamics](files/research/preference_dynamics.pdf) \
+3. [Boundaries of Differentiated Product Markets and Retailer Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916922)\
+with Giovanni Compiani (Sep 2021)
+
+4. [Integrated Factor Models of Variety Seeking Dynamics](files/research/preference_dynamics.pdf) \
 with Yinxing Li, Shohei Hasegawa, Nobuhiko Terui, and Greg Allenby (Aug 2020)
 
-4. [Capturing Flexible Price Elasticities in Direct Utility Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3539001)\
+5. [Capturing Flexible Price Elasticities in Direct Utility Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3539001)\
 with Chul Kim, Jaehwan Kim, and Greg Allenby (Mar 2020)
 
-5. Learned Complementarity\
+6. Learned Complementarity\
 with Dan Ershov
-
-6. Boundaries of Differentiated Product Markets and Retailer Pricing\
-with Giovanni Compiani
 
 7. Constrained Heterogeneity\
 with Tetyana Kosyakova, Thomas Otter, and Max Pachali
