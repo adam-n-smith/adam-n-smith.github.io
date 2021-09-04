@@ -27,15 +27,13 @@ University College London\
 <h2> Publications </h2>
 
 1. [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf)\
-**Marketing Science**, with Peter Rossi and Greg Allenby (2019)\
-<!-- [[online appendix]](files/research/separabledemand_appendix.pdf) -->
+*Marketing Science*, with Peter Rossi and Greg Allenby (2019)\
 <a 
 href="files/research/separabledemand_appendix.pdf" 
 style="color:rgb(51,51,51);">[online appendix]</a>
 
 2. [Demand Models with Random Partitions](files/research/dmrp.pdf)\
-**Journal of the American Statistical Association**, with Greg Allenby (2020)\
-<!-- [[online appendix]](files/research/dmrp_appendix.pdf) [[code]](https://github.com/adam-n-smith/demand-models-random-partitions) -->
+*Journal of the American Statistical Association*, with Greg Allenby (2020)\
 <a 
 href="files/research/dmrp_appendix.pdf" 
 style="color:rgb(51,51,51);">[online appendix]</a>
@@ -44,24 +42,15 @@ href="https://github.com/adam-n-smith/demand-models-random-partitions"
 style="color:rgb(51,51,51);">[code]</a>
 
 3. [Discussion of "Centered Partition Processes: Informative Priors for Clustering"](files/research/cp_discussion.pdf)\
-**Bayesian Analysis** (2021)\
-
-
-<!-- 1. [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf) (2019) with Peter Rossi and Greg Allenby, *Marketing Science* -->
-<!-- [[online appendix]](files/research/separabledemand_appendix.pdf) -->
-
-<!-- 2. [Demand Models with Random Partitions](files/research/dmrp.pdf) (2020) with Greg Allenby,  *Journal of the American Statistical Association* -->
-<!-- [[online appendix]](files/research/dmrp_appendix.pdf) [[code]](https://github.com/adam-n-smith/demand-models-random-partitions) -->
-
-<!-- 3. [Discussion of "Centered Partition Processes: Informative Priors for Clustering"](files/research/cp_discussion.pdf) (2021) *Bayesian Analysis*\ -->
+*Bayesian Analysis* (2021)\
 
 <h2> Current Research </h2>
 
 1. [Optimal Price Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822459)\
-R&R at **Marketing Science**, with Stephan Seiler and Ishant Aggarwal (Apr 2021)\
+R&R at *Marketing Science*, with Stephan Seiler and Ishant Aggarwal (Apr 2021)\
 
 2. [Shrinkage Priors for High-Dimensional Demand Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3833417)\
-R&R at **Quantitative Marketing and Economics**, with Jim Griffin (Apr 2021)
+R&R at *Quantitative Marketing and Economics*, with Jim Griffin (Apr 2021)
 
 3. [Boundaries of Differentiated Product Markets and Retailer Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916922)\
 with Giovanni Compiani (Sep 2021)
