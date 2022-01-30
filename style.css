@@ -1,60 +1,52 @@
 /* Whole document */
 body{
-  font-family: arial;
-  font-weight: lighter;
-  font-size: 10.25pt;
   min-width: 30%;
-  max-width: 45em;
+  max-width: 40em;
   margin: auto;
+}
+p {
+  min-width: 30%;
+  max-width: 40em;
+  text-align: justify;
+  font-size: 12pt;
 }
 
 /* Headers */
 h1{
-  color: black;
-  font-family: arial;
-  font-size: 18pt;
-  font-weight: 400;
+  font-size: 24pt;
 }
 h2{
   color: black;
-  font-family: arial;
   font-size: 14pt;
   font-weight: 400;
-  border-bottom: 1px solid black;
-  padding-bottom: 2px;
 }
 h3{
-  font-family: arial;
-  font-weight: lighter;
   font-size: 12pt;
+  font-weight: 400;
+  margin-top: 0;
+  padding-bottom: 10px;
 }
 
-@counter-style dash {
-  system: cyclic;
-  symbols: "–";
-  suffix: " ";
+/* Images */
+img {
+  padding: 2% 0% 5% 0%;
+  width: 500px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Bullets */
 ul {
   list-style-type: none;
 }
-ul ul{
-  list-style-type: none;
-}
-
 ul > li:before {
   content: "–"; /* en dash */
   position: absolute;
   margin-left: -1.1em; 
 }
-
 li {
-  margin-left: -15pt;
-}
-
-img {
-  padding: 5% 2.5% 1% 0%;
-  width: 60%;
-  min-width: 37rem;
+  margin-left: -10pt;
 }

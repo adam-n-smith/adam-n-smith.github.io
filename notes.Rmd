@@ -1,0 +1,39 @@
+---
+title: ''
+pagetitle: Adam N. Smith
+theme: minima
+---
+
+<div class="container">
+
+<h1> Adam N. Smith </h1> 
+
+<h3>
+[about](index.html) / 
+<a href=files/smith-cv.pdf target="_blank">cv</a> /
+[research](research.html) /
+[teaching](teaching.html) /
+notes /
+<a href="https://github.com/adam-n-smith" target="_blank">github</a>
+</h3> 
+
+<h2> Notes on Bayesian methods </h2>
+
+* [Bayesian Foundations](files/notes/bayes-foundations.pdf)
+
+* [Bayesian Decision Theory](files/notes/bayes-decision-theory.pdf)
+
+* [Bayesian Asymptotics](files/notes/bayes-asymptotics.pdf)
+
+* [Bayesian Computation and MCMC](files/notes/bayes-mcmc.pdf)
+
+* [Bayesian Linear Regression](files/notes/bayes-regression.pdf)
+
+<h2> Notes on demand estimation </h2>
+
+* [BLP](files/notes/blp.pdf)
+
+* [Multiple Discrete/Continuous Demand](files/notes/mdc-simulation.pdf)
+
+</div>
+
