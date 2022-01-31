@@ -4,10 +4,9 @@ body{
   max-width: 40em;
   margin: auto;
 }
-p {
+p{
   min-width: 30%;
   max-width: 40em;
-  text-align: justify;
   font-size: 12pt;
 }
 
