@@ -1,12 +1,8 @@
 /* Whole document */
 body{
   min-width: 30%;
-  max-width: 40em;
+  max-width: 38em;
   margin: auto;
-}
-p{
-  min-width: 30%;
-  max-width: 40em;
   font-size: 12pt;
 }
 

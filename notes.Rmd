@@ -4,8 +4,6 @@ pagetitle: Adam N. Smith
 theme: minima
 ---
 
-<div class="container">
-
 <h1> Adam N. Smith </h1> 
 
 <h3>
@@ -34,6 +32,3 @@ notes /
 * [BLP](files/notes/blp.pdf)
 
 * [Multiple Discrete/Continuous Demand](files/notes/mdc-simulation.pdf)
-
-</div>
-

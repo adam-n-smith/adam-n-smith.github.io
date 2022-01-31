@@ -4,8 +4,6 @@ pagetitle: Adam N. Smith
 theme: minima
 ---
 
-<div class="container" style="text-align:justify">
-
 <h1> Adam N. Smith </h1> 
 
 <h3>
@@ -16,6 +14,8 @@ teaching /
 [notes](notes.html) /
 <a href="https://github.com/adam-n-smith" target="_blank">github</a>
 </h3> 
+
+<div style="text-align:justify">
 
 <h2> Data Analytics I (MSIN0010)</h2>
 

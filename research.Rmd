@@ -4,8 +4,6 @@ pagetitle: Adam N. Smith
 theme: minima
 ---
 
-<div class="container">
-
 <h1> Adam N. Smith </h1> 
 
 <h3>
@@ -69,4 +67,4 @@ with Dan Ershov
 7. Constrained Heterogeneity\
 with Tetyana Kosyakova, Thomas Otter, and Max Pachali
 
-</div>
+<br>
