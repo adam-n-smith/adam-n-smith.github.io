@@ -1,7 +1,7 @@
 ---
 title: ''
 pagetitle: Adam N. Smith
-theme: minima
+theme: minimal
 ---
 
 <h1> Adam N. Smith </h1> 
@@ -15,7 +15,7 @@ notes /
 <a href="https://github.com/adam-n-smith" target="_blank">github</a>
 </h3> 
 
-<h2> Notes on Bayesian methods </h2>
+<h2> Bayesian methods </h2>
 
 * [Bayesian Foundations](files/notes/bayes-foundations.pdf)
 
@@ -27,7 +27,7 @@ notes /
 
 * [Bayesian Linear Regression](files/notes/bayes-regression.pdf)
 
-<h2> Notes on demand estimation </h2>
+<h2> Demand estimation </h2>
 
 * [BLP](files/notes/blp.pdf)
 

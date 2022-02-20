@@ -1,7 +1,7 @@
 ---
 title: ''
 pagetitle: Adam N. Smith
-theme: minima
+theme: minimal
 ---
 
 <h1> Adam N. Smith </h1> 
