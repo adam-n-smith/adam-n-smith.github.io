@@ -15,7 +15,7 @@ notes /
 <a href="https://github.com/adam-n-smith" target="_blank">github</a>
 </h3> 
 
-<h2> Bayesian methods </h2>
+<h2> BAYESIAN METHODS </h2>
 
 * [Bayesian Foundations](files/notes/bayes-foundations.pdf)
 
@@ -27,7 +27,7 @@ notes /
 
 * [Bayesian Linear Regression](files/notes/bayes-regression.pdf)
 
-<h2> Demand estimation </h2>
+<h2> DEMAND ESTIMATION </h2>
 
 * [BLP](files/notes/blp.pdf)
 

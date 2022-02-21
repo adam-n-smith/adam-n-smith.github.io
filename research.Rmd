@@ -15,7 +15,7 @@ research /
 <a href="https://github.com/adam-n-smith" target="_blank">github</a>
 </h3> 
 
-<h2> Publications </h2>
+<h2> PUBLICATIONS </h2>
 
 1. [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf)\
 **Marketing Science**, with P. Rossi and G. Allenby (2019)\
@@ -36,7 +36,7 @@ style="color:rgb(51,51,51);">[code]</a>
 **Bayesian Analysis** (2021)\
 
 
-<h2> Current Research </h2>
+<h2> CURRENT RESEARCH </h2>
 
 1. [Optimal Price Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822459)\
 R&R at **Marketing Science**, with S. Seiler and I. Aggarwal (Apr 2021)\

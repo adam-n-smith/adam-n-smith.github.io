@@ -17,7 +17,7 @@ teaching /
 
 <div style="text-align:justify">
 
-<h2> Data Analytics I (MSIN0010)</h2>
+<h2> DATA ANALYTICS I (MSIN0010)</h2>
 
 [[Syllabus]](files/teaching/MSIN0010-syllabus.pdf)
 [[Textbook:  Data Analytics with R]](https://adam-n-smith.github.io/MSIN0010/)
@@ -26,7 +26,7 @@ This module introduces students to how organizations use data and analytics to c
 
 The context for the module is management in complex, innovation-intensive, data-driven environments. The explosion in the volume and range of internal and external data available to managers and the development of new data analytics tools is having a major impact on how people identify, formulate, and solve management problems.
 
-<h2> Marketing Science (MSIN0041)</h2>
+<h2> MARKETING SCIENCE (MSIN0041)</h2>
 
 [[Syllabus]](files/teaching/MSIN0041-syllabus.pdf)
 
