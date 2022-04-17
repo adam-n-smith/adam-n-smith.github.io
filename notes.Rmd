@@ -4,31 +4,53 @@ pagetitle: Adam N. Smith
 theme: minimal
 ---
 
-<h1> Adam N. Smith </h1> 
-
-<h3>
-[about](index.html) / 
+<div class="header">
+<h1 class="item">Adam N. Smith</h1>
+<h3 class="item">
+[about](index.html) /
 <a href=files/smith-cv.pdf target="_blank">cv</a> /
 [research](research.html) /
 [teaching](teaching.html) /
 notes /
 <a href="https://github.com/adam-n-smith" target="_blank">github</a>
-</h3> 
+</h3>
+</div>
 
-<h2> BAYESIAN METHODS </h2>
+<!-- <h1> Adam N. Smith </h1>  -->
+
+<!-- <h3> -->
+<!-- [about](index.html) /  -->
+<!-- <a href=files/smith-cv.pdf target="_blank">cv</a> / -->
+<!-- [research](research.html) / -->
+<!-- [teaching](teaching.html) / -->
+<!-- notes / -->
+<!-- <a href="https://github.com/adam-n-smith" target="_blank">github</a> -->
+<!-- </h3>  -->
+<div style="text-align:justify">
+
+<h2> Bayesian Methods </h2>
 
 * [Bayesian Foundations](files/notes/bayes-foundations.pdf)
+This note reviews some of the probabilistic foundations of the Bayesian paradigm. We focus on somewhat existential questions about prior distributions through the lens of de Finetti’s representation theorem. The goal is to show that a Bayesian analysis---or more generally, the subjectivist view of probability---can be both motivated and justified by the simple belief of exchangeability.
 
 * [Bayesian Decision Theory](files/notes/bayes-decision-theory.pdf)
+This note reviews some of the key results in Bayesian decision theory. The motivation is to understand how and why Bayes estimators are “good” estimators. We outline conditions of Bayesian optimality and frequentist optimality, and then present a key result (the complete class theorem) connecting these two criteria which shows that all “good” estimators in the frequentist sense must be Bayes with respect to some prior.
 
 * [Bayesian Asymptotics](files/notes/bayes-asymptotics.pdf)
+This note reviews some of the key results in Bayesian asymptotics. We consider the following questions: Where do posteriors concentrate mass as the sample size gets large? Are posteriors consistent in the frequentist sense? What shape does the limiting posterior have? We start with a general result on the consistency of posterior distributions (Doob’s theorem), and then present results on the asymptotic normality for parametric models (Bernstein-von Mises theorem).
 
 * [Bayesian Computation and MCMC](files/notes/bayes-mcmc.pdf)
+This note reviews some of the key results underlying MCMC theory, discusses the theoretical underpinnings of popular MCMC algorithms (the Metropolis-Hastings algorithm and Gibbs sampler), and presents a few applications in the context of economic choice models.
 
 * [Bayesian Linear Regression](files/notes/bayes-regression.pdf)
+This note derives the posterior distribution of a Bayesian linear regression model with conjugate priors and may be used as a companion to chapter 2.8 in Rossi et al. (2005). We first define the model and derive the posterior. We conclude with a discussion of efficient posterior sampling based on the Cholesky decomposition.
 
-<h2> DEMAND ESTIMATION </h2>
+<h2> Demand Estimation </h2>
 
 * [BLP](files/notes/blp.pdf)
+This note reviews the canonical random coefficients logit or “BLP” model á la Berry et al. (1995). We outline details of the model, the contraction mapping, and both classical and Bayesian approaches to estimation.
 
 * [Multiple Discrete/Continuous Demand](files/notes/mdc-simulation.pdf)
+This note outlines a method for simulating demand from multiple discrete/continuous demand models. In this class of models, demand equations are often complicated expressions without a closed form, which complicates the process of simulating demand. We focus on a simulation approach based on analytical expressions of the Kuhn-Tucker conditions.
+
+</div>

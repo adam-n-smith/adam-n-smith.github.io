@@ -4,16 +4,28 @@ pagetitle: Adam N. Smith
 theme: minimal
 ---
 
-<h1> Adam N. Smith </h1> 
-
-<h3> 
-about / 
+<div class="header">
+<h1 class="item">Adam N. Smith</h1>
+<h3 class="item">
+about /
 <a href=files/smith-cv.pdf target="_blank">cv</a> /
 [research](research.html) /
 [teaching](teaching.html) /
 [notes](notes.html) /
 <a href="https://github.com/adam-n-smith" target="_blank">github</a>
-</h3> 
+</h3>
+</div>
+
+<!-- <h1> Adam N. Smith </h1>  -->
+
+<!-- <h3>  -->
+<!-- about /  -->
+<!-- <a href=files/smith-cv.pdf target="_blank">cv</a> / -->
+<!-- [research](research.html) / -->
+<!-- [teaching](teaching.html) / -->
+<!-- [notes](notes.html) / -->
+<!-- <a href="https://github.com/adam-n-smith" target="_blank">github</a> -->
+<!-- </h3>  -->
 
 <img src="files/adam-smith.jpg" class="center">
 
