@@ -18,7 +18,7 @@ body{
   max-width: 40em;
   /*max-width: 37em;*/
   margin: auto;
-  font-size: 11pt;
+  font-size: 12pt;
   font-family: Helvetica;
   padding-bottom: 2.5%;
 }
@@ -28,12 +28,12 @@ h1{
   font-size: 24pt;
 }
 h2{
-  font-size: 11pt;
+  font-size: 12pt;
   font-family: Helvetica;
   font-weight: bold;
 }
 h3{
-  font-size: 11pt;
+  font-size: 12pt;
   font-family: Helvetica;
   /* font-weight: 400;
   margin-top: 0;
