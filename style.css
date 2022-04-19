@@ -33,7 +33,7 @@ h2{
   font-weight: bold;
 }
 h3{
-  font-size: calc(10pt + 0.25vw);
+  font-size: 12pt;
   font-family: Helvetica;
   /* font-weight: 400;
   margin-top: 0;
