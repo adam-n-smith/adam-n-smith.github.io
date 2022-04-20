@@ -16,9 +16,8 @@
 body{
   min-width: 30%;
   max-width: 40em;
-  /*max-width: 37em;*/
   margin: auto;
-  font-size: calc(10pt + 0.25vw);
+  font-size: calc(10pt + 0.2vw);
   font-family: Helvetica;
   padding-bottom: 2.5%;
 }
@@ -28,7 +27,7 @@ h1{
   font-size: 24pt;
 }
 h2{
-  font-size: calc(10pt + 0.25vw);
+  font-size: calc(10pt + 0.2vw);
   font-family: Helvetica;
   font-weight: bold;
 }
