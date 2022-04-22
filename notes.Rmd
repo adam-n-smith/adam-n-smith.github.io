@@ -48,7 +48,7 @@ This note derives the posterior distribution of a Bayesian linear regression mod
 <h2> Demand Estimation </h2>
 
 * [BLP](files/notes/blp.pdf)
-This note reviews the canonical random coefficients logit or “BLP” model á la Berry et al. (1995). We outline details of the model, the contraction mapping, and both classical and Bayesian approaches to estimation.
+This note reviews the canonical random coefficients logit or “BLP” model à la Berry et al. (1995). We outline details of the model, the contraction mapping, and both classical and Bayesian approaches to estimation.
 
 * [Multiple Discrete/Continuous Demand](files/notes/mdc-simulation.pdf)
 This note outlines a method for simulating demand from multiple discrete/continuous demand models. In this class of models, demand equations are often complicated expressions without a closed form, which complicates the process of simulating demand. We focus on a simulation approach based on analytical expressions of the Kuhn-Tucker conditions.
