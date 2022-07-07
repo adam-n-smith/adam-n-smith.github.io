@@ -41,13 +41,13 @@ research /
 <h2> Publications </h2>
 
 [Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf)\
-*Marketing Science*, with P. Rossi and G. Allenby (2019)\
+*Marketing Science*, with P. Rossi and G. Allenby, 2019\
 <a 
 href="files/research/separabledemand_appendix.pdf" 
 style="color:rgb(51,51,51);">[online appendix]</a>
 
 [Demand Models with Random Partitions](files/research/dmrp.pdf)\
-*Journal of the American Statistical Association*, with G. Allenby (2020)\
+*Journal of the American Statistical Association*, with G. Allenby, 2020\
 <a 
 href="files/research/dmrp_appendix.pdf" 
 style="color:rgb(51,51,51);">[online appendix]</a>
@@ -56,13 +56,14 @@ href="https://github.com/adam-n-smith/demand-models-random-partitions"
 style="color:rgb(51,51,51);">[code]</a>
 
 [Discussion of "Centered Partition Processes: Informative Priors for Clustering"](files/research/cp_discussion.pdf)\
-*Bayesian Analysis* (2021)\
+*Bayesian Analysis*, 2021\
 
 
 <h2> Current Research </h2>
 
 [Optimal Price Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822459)\
-R&R at *Marketing Science*, with S. Seiler and I. Aggarwal (Apr 2022)\
+with S. Seiler and I. Aggarwal, April 2022\
+conditionally accepted at *Marketing Science*\
 <a 
 href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16096" 
 style="color:rgb(51,51,51);">[CEPR DP]
@@ -73,19 +74,20 @@ style="color:rgb(51,51,51);">[CESifo WP]
 </a>
 
 [Shrinkage Priors for High-Dimensional Demand Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3833417)\
-R&R at *Quantitative Marketing and Economics*, with J. Griffin (Apr 2021)
+with J. Griffin, June 2022\
+R&R at *Quantitative Marketing and Economics*
 
 [Boundaries of Differentiated Product Markets and Retailer Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916922)\
-with G. Compiani (Feb 2022)
+with G. Compiani, February 2022
 
-[Integrated Factor Models of Variety Seeking Dynamics](files/research/preference_dynamics.pdf) \
-with Y. Li, S. Hasegawa, N. Terui, and G. Allenby (Aug 2020)
+<!-- [Integrated Factor Models of Variety Seeking Dynamics](files/research/preference_dynamics.pdf) \ -->
+<!-- with Y. Li, S. Hasegawa, N. Terui, and G. Allenby (Aug 2020) -->
 
 [Capturing Flexible Price Elasticities in Direct Utility Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3539001)\
-with C. Kim, J. Kim, and G. Allenby (Mar 2020)
+with C. Kim, J. Kim, and G. Allenby, March 2020
 
 Learned Complementarity\
 with D. Ershov
 
 Constrained Heterogeneity\
-with T. Kosyakova, T. Otter, and M. Pachali
+with T. Kosyakova, M. Pachali, and T. Otter
