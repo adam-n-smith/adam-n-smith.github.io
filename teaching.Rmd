@@ -16,20 +16,13 @@ teaching /
 </h3>
 </div>
 
-<!-- <h1> Adam N. Smith </h1>  -->
-
-<!-- <h3> -->
-<!-- [about](index.html) /  -->
-<!-- <a href=files/smith-cv.pdf target="_blank">cv</a> / -->
-<!-- [research](research.html) / -->
-<!-- teaching / -->
-<!-- [notes](notes.html) / -->
-<!-- <a href="https://github.com/adam-n-smith" target="_blank">github</a> -->
-<!-- </h3>  -->
+<p class="" style="margin: 25px;"></p>
 
 <div style="text-align:justify">
 
 <h2> MSIN0010 Data Analytics I</h2>
+
+*Years taught: 2017--2021* 
 
 [[Syllabus]](files/teaching/MSIN0010-syllabus.pdf)
 [[Textbook:  Data Analytics with R]](https://adam-n-smith.github.io/MSIN0010/)
@@ -39,6 +32,8 @@ This module introduces students to how organizations use data and analytics to c
 The context for the module is management in complex, innovation-intensive, data-driven environments. The explosion in the volume and range of internal and external data available to managers and the development of new data analytics tools is having a major impact on how people identify, formulate, and solve management problems.
 
 <h2> MSIN0041 Marketing Science</h2>
+
+*Years taught: 2018--2021*
 
 [[Syllabus]](files/teaching/MSIN0041-syllabus.pdf)
 

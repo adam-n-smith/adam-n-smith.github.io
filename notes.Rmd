@@ -16,16 +16,8 @@ notes /
 </h3>
 </div>
 
-<!-- <h1> Adam N. Smith </h1>  -->
+<p class="" style="margin: 25px;"></p>
 
-<!-- <h3> -->
-<!-- [about](index.html) /  -->
-<!-- <a href=files/smith-cv.pdf target="_blank">cv</a> / -->
-<!-- [research](research.html) / -->
-<!-- [teaching](teaching.html) / -->
-<!-- notes / -->
-<!-- <a href="https://github.com/adam-n-smith" target="_blank">github</a> -->
-<!-- </h3>  -->
 <div style="text-align:justify">
 
 <h2> Bayesian Methods </h2>
