@@ -49,7 +49,10 @@ with S. Seiler and I. Aggarwal\
 
 [Shrinkage Priors for High-Dimensional Demand Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3833417)\
 with J. Griffin\
-*Quantitative Marketing and Economics*, accepted, 2022+
+*Quantitative Marketing and Economics*, accepted, 2022+\
+<a 
+href="https://github.com/adam-n-smith/hierarchical-shrinkage" 
+style="color:rgb(51,51,51);">[code]</a>
 
 <h2> Current Research </h2>
 
