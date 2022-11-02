@@ -20,9 +20,7 @@ about /
 
 <div style="text-align:justify">
 
-I am an Assistant Professor of Marketing at the [UCL School of Management](https://www.mgmt.ucl.ac.uk) in London, UK. 
-
-For the 22/23 and 23/24 academic years, I am on leave from UCL and am working in data science at Google in Mountain View, CA.
+I am an Assistant Professor of Marketing at the [UCL School of Management](https://www.mgmt.ucl.ac.uk) in London, UK. For the 22/23 and 23/24 academic years, I am on leave from UCL and am working in data science at Google in Mountain View, CA.
 
 <!-- My research lies at the intersection of Marketing, Economics, and Statistics. I develop micro-econometric methods that can be used to inform decisions in the areas of retail pricing, market definition, and target marketing. My current research projects focus on estimating large-scale demand models, designing and evaluating personalized pricing policies, and measuring the value of customer data and flexible predictive models. -->
 
