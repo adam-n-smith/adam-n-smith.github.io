@@ -20,51 +20,44 @@ research /
 
 <h2> Publications </h2>
 
-[Inference for Product Competition and Separable Demand](files/research/separabledemand.pdf)\
-with P. Rossi and G. Allenby\
-*Marketing Science*, 2019\
+[Inference for Product Competition and Separable Demand](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2019.1159)\
+*Marketing Science*, 2019 (with P. Rossi and G. Allenby)\
 <a 
 href="files/research/separabledemand_appendix.pdf" 
-style="color:rgb(51,51,51);">[online appendix]</a>
+style="color:rgb(51,51,51);font-family:Courier New">[online appendix]</a>
 
-[Demand Models with Random Partitions](files/research/dmrp.pdf)\
-with G. Allenby\
-*Journal of the American Statistical Association*, 2020\
+[Demand Models with Random Partitions](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1604360)\
+*Journal of the American Statistical Association*, 2020 (with G. Allenby)\
 <a 
 href="files/research/dmrp_appendix.pdf" 
-style="color:rgb(51,51,51);">[online appendix]</a>
+style="color:rgb(51,51,51);font-family:Courier New">[online appendix]</a>
 <a 
 href="https://github.com/adam-n-smith/demand-models-random-partitions" 
-style="color:rgb(51,51,51);">[code]</a>
+style="color:rgb(51,51,51);font-family:Courier New">[code]</a>
 
-[Invited Discussion of "Centered Partition Processes: Informative Priors for Clustering"](files/research/cp_discussion.pdf)\
+[Invited Discussion:](files/research/centered-partition-processes-discussion.pdf) ["Centered Partition Processes: Informative Priors for Clustering"](https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-1/Centered-Partition-Processes-Informative-Priors-for-Clustering-with-Discussion/10.1214/20-BA1197.full)\
 *Bayesian Analysis*, 2021\
-<a 
-href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Centered-Partition-Processes-Informative-Priors-for-Clustering/10.1214/20-BA1197.full" 
-style="color:rgb(51,51,51);">[paper]</a>
 
-[Optimal Price Targeting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822459)\
-with S. Seiler and I. Aggarwal\
-*Marketing Science*, accepted, 2022+
+[Optimal Price Targeting](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2022.1387)\
+*Marketing Science*, 2023 (with S. Seiler and I. Aggarwal)\
 
-[Shrinkage Priors for High-Dimensional Demand Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3833417)\
-with J. Griffin\
-*Quantitative Marketing and Economics*, accepted, 2022+\
+[Shrinkage Priors for High-Dimensional Demand Estimation](https://link.springer.com/article/10.1007/s11129-022-09260-7)\
+*Quantitative Marketing and Economics*, 2023 (with J. Griffin)\
 <a 
 href="https://github.com/adam-n-smith/hierarchical-shrinkage" 
-style="color:rgb(51,51,51);">[code]</a>
+style="color:rgb(51,51,51);font-family:Courier New">[code]</a>
+
+[Outside Good Utility and Substitution Patterns in Direct Utility Models](https://www.sciencedirect.com/science/article/abs/pii/S1755534523000489)\
+*Journal of Choice Modelling*, 2023 (with C. Kim, J. Kim, and G. Allenby)\
 
 <h2> Current Research </h2>
 
 [Boundaries of Differentiated Product Markets and Retailer Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916922)\
-with G. Compiani, February 2022
+(with G. Compiani)
 
-[Capturing Flexible Price Elasticities in Direct Utility Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3539001)\
-with C. Kim, J. Kim, and G. Allenby, March 2020
-
-Constrained Heterogeneity\
-with T. Kosyakova, M. Pachali, and T. Otter
+[Constrained Heterogeneity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4331470)\
+(with T. Kosyakova, M. Pachali, and T. Otter)
 
 Learned Complementarity\
-with D. Ershov and M. Pachali
+(with D. Ershov and M. Pachali)
 

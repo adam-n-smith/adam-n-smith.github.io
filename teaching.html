@@ -13,7 +13,7 @@
 
 <title>Adam N. Smith</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -57,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -82,6 +83,9 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
 pre code {
   padding: 0;
 }
@@ -101,8 +105,8 @@ pre code {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -110,16 +114,9 @@ pre code {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -173,26 +170,49 @@ pre code {
 Adam N. Smith
 </h1>
 <h3 class="item">
-<a href="index.html">about</a> / <a href=files/smith-cv.pdf target="_blank">cv</a> / <a href="research.html">research</a> / teaching / <a href="notes.html">notes</a> / <a href="https://github.com/adam-n-smith" target="_blank">github</a>
+<a href="index.html">about</a> /
+<a href=files/smith-cv.pdf target="_blank">cv</a> / <a
+href="research.html">research</a> / teaching / <a
+href="notes.html">notes</a> /
+<a href="https://github.com/adam-n-smith" target="_blank">github</a>
 </h3>
 </div>
 <p class style="margin: 25px;">
 </p>
 <div style="text-align:justify">
 <h2>
-MSIN0010 Data Analytics I
+UCL MSIN0010 Data Analytics I
 </h2>
 <p><em>Years taught: 2017–2021</em></p>
-<p><a href="files/teaching/MSIN0010-syllabus.pdf">[Syllabus]</a> <a href="https://adam-n-smith.github.io/MSIN0010/">[Textbook: Data Analytics with R]</a></p>
-<p>This module introduces students to how organizations use data and analytics to create value and improve performance, trains them to use selected statistical data analytics and data mining tools, and introduces them to elements of the statistical theory and algorithms that underpin those tools.</p>
-<p>The context for the module is management in complex, innovation-intensive, data-driven environments. The explosion in the volume and range of internal and external data available to managers and the development of new data analytics tools is having a major impact on how people identify, formulate, and solve management problems.</p>
+<p><a href="files/teaching/MSIN0010-syllabus.pdf">[Syllabus]</a> <a
+href="https://rgreminger.github.io/MSIN0010book/">[Textbook: Data
+Analytics with R]</a></p>
+<p>This module introduces students to how organizations use data and
+analytics to create value and improve performance, trains them to use
+selected statistical data analytics and data mining tools, and
+introduces them to elements of the statistical theory and algorithms
+that underpin those tools.</p>
+<p>The context for the module is management in complex,
+innovation-intensive, data-driven environments. The explosion in the
+volume and range of internal and external data available to managers and
+the development of new data analytics tools is having a major impact on
+how people identify, formulate, and solve management problems.</p>
 <h2>
-MSIN0041 Marketing Science
+UCL MSIN0041 Marketing Science
 </h2>
 <p><em>Years taught: 2018–2021</em></p>
 <p><a href="files/teaching/MSIN0041-syllabus.pdf">[Syllabus]</a></p>
-<p>Marketing professionals have long used data to measure campaigns and make marketing decisions. But with the advent of new channels and devices, marketers now have access to an unparalleled amount of data. Marketers need a more systematic way of capturing and analysing data, unearthing insights and using those insights to improve business outcomes.</p>
-<p>Marketing Science revolves around understanding complex market dynamics and using various tools to predict outcomes and recommend actions. Marketing Scientists exhibit broader collaboration across the business, greater impact on customer engagement and a more pervasive culture of data-driven decision-making.</p>
+<p>Marketing professionals have long used data to measure campaigns and
+make marketing decisions. But with the advent of new channels and
+devices, marketers now have access to an unparalleled amount of data.
+Marketers need a more systematic way of capturing and analysing data,
+unearthing insights and using those insights to improve business
+outcomes.</p>
+<p>Marketing Science revolves around understanding complex market
+dynamics and using various tools to predict outcomes and recommend
+actions. Marketing Scientists exhibit broader collaboration across the
+business, greater impact on customer engagement and a more pervasive
+culture of data-driven decision-making.</p>
 </div>
 
 
