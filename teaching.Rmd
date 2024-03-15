@@ -20,9 +20,7 @@ teaching /
 
 <div style="text-align:justify">
 
-<h2> UCL MSIN0010 Data Analytics I</h2>
-
-*Years taught: 2017--2021* 
+<h2> UCL Data Analytics (2017--2022)</h2>
 
 [[Syllabus]](files/teaching/MSIN0010-syllabus.pdf)
 [[Textbook:  Data Analytics with R]](https://rgreminger.github.io/MSIN0010book/)
@@ -31,9 +29,7 @@ This module introduces students to how organizations use data and analytics to c
 
 The context for the module is management in complex, innovation-intensive, data-driven environments. The explosion in the volume and range of internal and external data available to managers and the development of new data analytics tools is having a major impact on how people identify, formulate, and solve management problems.
 
-<h2> UCL MSIN0041 Marketing Science</h2>
-
-*Years taught: 2018--2021*
+<h2> UCL Marketing Science (2018-2022)</h2>
 
 [[Syllabus]](files/teaching/MSIN0041-syllabus.pdf)
 
