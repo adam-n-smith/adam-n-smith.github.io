@@ -25,16 +25,12 @@ teaching /
 [[Syllabus]](files/teaching/MSIN0010-syllabus.pdf)
 [[Textbook:  Data Analytics with R]](https://rgreminger.github.io/MSIN0010book/)
 
-This module introduces students to how organizations use data and analytics to create value and improve performance, trains them to use selected statistical data analytics and data mining tools, and introduces them to elements of the statistical theory and algorithms that underpin those tools.
-
-The context for the module is management in complex, innovation-intensive, data-driven environments. The explosion in the volume and range of internal and external data available to managers and the development of new data analytics tools is having a major impact on how people identify, formulate, and solve management problems.
+This is a core first-year module in the BSc Management Science program. The goal is to introduce students to the ways in which organizations use data and analytics to create value. The class covers the theory of statistical inference and the application of statistical machine learning methods to management problems. Topics include probability, estimation and testing, linear regression, classification and regression trees, and k-means clustering. Students become proficient in R. 
 
 <h2> UCL Marketing Science (2018-2022)</h2>
 
 [[Syllabus]](files/teaching/MSIN0041-syllabus.pdf)
 
-Marketing professionals have long used data to measure campaigns and make marketing decisions. But with the advent of new channels and devices, marketers now have access to an unparalleled amount of data. Marketers need a more systematic way of capturing and analysing data, unearthing insights and using those insights to improve business outcomes.
-
-Marketing Science revolves around understanding complex market dynamics and using various tools to predict outcomes and recommend actions. Marketing Scientists exhibit broader collaboration across the business, greater impact on customer engagement and a more pervasive culture of data-driven decision-making.
+This is a core third-year module in the BSc Management Science program. The class introduces students to classic marketing frameworks --- e.g., the “4 Ps,” the "3 Cs", "STP" --- but through the lens of rigorous measurement. Students get exposure to HBS case studies, academic research papers, and real data sets that can be used to improve marketing practice. Examples of methods covered include discrete choice models, Bayesian hierarchical models, the Rubin causal model, and word embeddings. 
 
 </div>
