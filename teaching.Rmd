@@ -5,7 +5,7 @@ theme: minimal
 ---
 
 <div class="header">
-<h1 class="item">Adam N. Smith</h1>
+<h1 class="item">ADAM N. SMITH</h1>
 <h3 class="item">
 [about](index.html) /
 <a href=files/smith-cv.pdf target="_blank">cv</a> /
@@ -16,21 +16,25 @@ teaching /
 </h3>
 </div>
 
-<p class="" style="margin: 25px;"></p>
+<p class="" style="margin: 33px;"></p>
 
 <div style="text-align:justify">
 
-<h2> UCL Data Analytics (2017--2022)</h2>
+UCL Data Analytics I (2017-2022)
+[[Textbook]](https://rgreminger.github.io/MSIN0010book/)
 
-[[Syllabus]](files/teaching/MSIN0010-syllabus.pdf)
-[[Textbook:  Data Analytics with R]](https://rgreminger.github.io/MSIN0010book/)
+- First-year undergraduate methods course in the BSc Management Science program. Topics covered include probability, estimation and testing, linear and logistic regression, classification and regression trees, and clustering. Students become proficient in R.
 
-This is a core first-year module in the BSc Management Science program. The goal is to introduce students to the ways in which organizations use data and analytics to create value. The class covers the theory of statistical inference and the application of statistical machine learning methods to management problems. Topics include probability, estimation and testing, linear regression, classification and regression trees, and k-means clustering. Students become proficient in R. 
+UCL Marketing Science (2018-2022)
 
-<h2> UCL Marketing Science (2018-2022)</h2>
+- Advanced undergraduate course in the BSc Management Science program. Topics covered include product design, pricing, promotions, user generated content, segmentation / targeting / positioning, and customer lifetime value. Students discuss case studies, read academic research papers, and work with data from real companies to learn how modern analytics can improve marketing practice.
 
-[[Syllabus]](files/teaching/MSIN0041-syllabus.pdf)
+LSE Marketing Analytics I (2018)
 
-This is a core third-year module in the BSc Management Science program. The class introduces students to classic marketing frameworks --- e.g., the “4 Ps,” the "3 Cs", "STP" --- but through the lens of rigorous measurement. Students get exposure to HBS case studies, academic research papers, and real data sets that can be used to improve marketing practice. Examples of methods covered include discrete choice models, Bayesian hierarchical models, the Rubin causal model, and word embeddings. 
+- Master's course in the MSc Marketing program. Topics covered include research designs, questionnaire design, data collection and sampling, data visualization, and statistical inference.
+
+OSU Marketing Research (2015-2016)
+
+- Advanced undergraduate course in the BS Business Administration program. Topics covered include research designs, questionnaire design, conjoint analysis, data collection and sampling, data visualization, and statistical inference.
 
 </div>

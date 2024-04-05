@@ -13,7 +13,7 @@
 
 <title>Adam N. Smith</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -57,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -82,6 +83,9 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
 pre code {
   padding: 0;
 }
@@ -101,8 +105,8 @@ pre code {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -110,16 +114,9 @@ pre code {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -170,32 +167,65 @@ pre code {
 
 <div class="header">
 <h1 class="item">
-Adam N. Smith
+ADAM N. SMITH
 </h1>
 <h3 class="item">
-<a href="index.html">about</a> / <a href=files/smith-cv.pdf target="_blank">cv</a> / <a href="research.html">research</a> / <a href="teaching.html">teaching</a> / notes / <a href="https://github.com/adam-n-smith" target="_blank">github</a>
+<a href="index.html">about</a> /
+<a href=files/smith-cv.pdf target="_blank">cv</a> / <a
+href="research.html">research</a> / <a href="teaching.html">teaching</a>
+/ notes /
+<a href="https://github.com/adam-n-smith" target="_blank">github</a>
 </h3>
 </div>
-<p class style="margin: 25px;">
+<p class style="margin: 33px;">
 </p>
 <div style="text-align:justify">
-<h2>
-Bayesian Methods
-</h2>
-<ul>
-<li><p><a href="files/notes/bayes-foundations.pdf">Bayesian Foundations</a> This note reviews some of the probabilistic foundations of the Bayesian paradigm. We focus on somewhat existential questions about prior distributions through the lens of de Finetti’s representation theorem. The goal is to show that a Bayesian analysis—or more generally, the subjectivist view of probability—can be both motivated and justified by the simple belief of exchangeability.</p></li>
-<li><p><a href="files/notes/bayes-decision-theory.pdf">Bayesian Decision Theory</a> This note reviews some of the key results in Bayesian decision theory. The motivation is to understand how and why Bayes estimators are “good” estimators. We outline conditions of Bayesian optimality and frequentist optimality, and then present a key result (the complete class theorem) connecting these two criteria which shows that all “good” estimators in the frequentist sense must be Bayes with respect to some prior.</p></li>
-<li><p><a href="files/notes/bayes-asymptotics.pdf">Bayesian Asymptotics</a> This note reviews some of the key results in Bayesian asymptotics. We consider the following questions: Where do posteriors concentrate mass as the sample size gets large? Are posteriors consistent in the frequentist sense? What shape does the limiting posterior have? We start with a general result on the consistency of posterior distributions (Doob’s theorem), and then present results on the asymptotic normality for parametric models (Bernstein-von Mises theorem).</p></li>
-<li><p><a href="files/notes/bayes-mcmc.pdf">Bayesian Computation and MCMC</a> This note reviews some of the key results underlying MCMC theory, discusses the theoretical underpinnings of popular MCMC algorithms (the Metropolis-Hastings algorithm and Gibbs sampler), and presents a few applications in the context of economic choice models.</p></li>
-<li><p><a href="files/notes/bayes-regression.pdf">Bayesian Linear Regression</a> This note derives the posterior distribution of a Bayesian linear regression model with conjugate priors and may be used as a companion to chapter 2.8 in Rossi et al. (2005). We first define the model and derive the posterior. We conclude with a discussion of efficient posterior sampling based on the Cholesky decomposition.</p></li>
-</ul>
-<h2>
-Demand Estimation
-</h2>
-<ul>
-<li><p><a href="files/notes/blp.pdf">BLP</a> This note reviews the canonical random coefficients logit or “BLP” model à la Berry et al. (1995). We outline details of the model, the contraction mapping, and both classical and Bayesian approaches to estimation.</p></li>
-<li><p><a href="files/notes/mdc-simulation.pdf">Multiple Discrete/Continuous Demand</a> This note outlines a method for simulating demand from multiple discrete/continuous demand models. In this class of models, demand equations are often complicated expressions without a closed form, which complicates the process of simulating demand. We focus on a simulation approach based on analytical expressions of the Kuhn-Tucker conditions.</p></li>
-</ul>
+<p><a href="files/notes/bayes-foundations.pdf">Bayesian Foundations</a>
+This note reviews some of the probabilistic foundations of the Bayesian
+paradigm. We focus on somewhat existential questions about prior
+distributions through the lens of de Finetti’s representation theorem.
+The goal is to show that a Bayesian analysis—or more generally, the
+subjectivist view of probability—can be both motivated and justified by
+the simple belief of exchangeability.</p>
+<p><a href="files/notes/bayes-decision-theory.pdf">Bayesian Decision
+Theory</a> This note reviews some of the key results in Bayesian
+decision theory. The motivation is to understand how and why Bayes
+estimators are “good” estimators. We outline conditions of Bayesian
+optimality and frequentist optimality, and then present a key result
+(the complete class theorem) connecting these two criteria which shows
+that all “good” estimators in the frequentist sense must be Bayes with
+respect to some prior.</p>
+<p><a href="files/notes/bayes-asymptotics.pdf">Bayesian Asymptotics</a>
+This note reviews some of the key results in Bayesian asymptotics. We
+consider the following questions: Where do posteriors concentrate mass
+as the sample size gets large? Are posteriors consistent in the
+frequentist sense? What shape does the limiting posterior have? We start
+with a general result on the consistency of posterior distributions
+(Doob’s theorem), and then present results on the asymptotic normality
+for parametric models (Bernstein-von Mises theorem).</p>
+<p><a href="files/notes/bayes-mcmc.pdf">Bayesian Computation and
+MCMC</a> This note reviews some of the key results underlying MCMC
+theory, discusses the theoretical underpinnings of popular MCMC
+algorithms (the Metropolis-Hastings algorithm and Gibbs sampler), and
+presents a few applications in the context of economic choice
+models.</p>
+<p><a href="files/notes/bayes-regression.pdf">Bayesian Linear
+Regression</a> This note derives the posterior distribution of a
+Bayesian linear regression model with conjugate priors and may be used
+as a companion to chapter 2.8 in Rossi et al. (2005). We first define
+the model and derive the posterior. We conclude with a discussion of
+efficient posterior sampling based on the Cholesky decomposition.</p>
+<p><a href="files/notes/blp.pdf">BLP</a> This note reviews the canonical
+random coefficients logit or “BLP” model à la Berry et al. (1995). We
+outline details of the model, the contraction mapping, and both
+classical and Bayesian approaches to estimation.</p>
+<p><a href="files/notes/mdc-simulation.pdf">Multiple Discrete/Continuous
+Demand</a> This note outlines a method for simulating demand from
+multiple discrete/continuous demand models. In this class of models,
+demand equations are often complicated expressions without a closed
+form, which complicates the process of simulating demand. We focus on a
+simulation approach based on analytical expressions of the Kuhn-Tucker
+conditions.</p>
 </div>
 
 

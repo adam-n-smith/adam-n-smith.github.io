@@ -21,18 +21,14 @@ body{
   padding-bottom: 2.5%;
 }
 
-a:hover{
-  color:darkblue;
-}
-
 /* Headers */
 h1{
   font-size: 24pt;
+  font-weight: 500;
 }
 h2{
   font-size: calc(10pt + 0.1vw);
-  font-family: Helvetica;
-  font-weight: bold;
+  font-weight: 500;
 }
 h3{
   font-size: 12pt;

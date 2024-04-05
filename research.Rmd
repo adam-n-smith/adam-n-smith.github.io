@@ -5,7 +5,7 @@ theme: minimal
 ---
 
 <div class="header">
-<h1 class="item">Adam N. Smith</h1>
+<h1 class="item">ADAM N. SMITH</h1>
 <h3 class="item">
 [about](index.html) /
 <a href=files/smith-cv.pdf target="_blank">cv</a> /
@@ -16,9 +16,7 @@ research /
 </h3>
 </div>
 
-<p class="" style="margin: 25px;"></p>
-
-<h2> Publications </h2>
+<p class="" style="margin: 33px;"></p>
 
 1. [Inference for Product Competition and Separable Demand](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2019.1159)\
 *Marketing Science*, 2019 (with P. Rossi and G. Allenby)\
@@ -49,8 +47,6 @@ style="color:rgb(51,51,51);font-family:Courier New">[code]</a>
 
 6. [Outside Good Utility and Substitution Patterns in Direct Utility Models](https://www.sciencedirect.com/science/article/abs/pii/S1755534523000489)\
 *Journal of Choice Modelling*, 2023 (with C. Kim, J. Kim, and G. Allenby)\
-
-<h2> Current Research </h2>
 
 7. [Boundaries of Differentiated Product Markets and Retailer Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916922)\
 (with G. Compiani)
