@@ -7,7 +7,7 @@ theme: minimal
 <div class="header">
 <h1 class="item">ADAM N. SMITH</h1>
 <h3 class="item">
-about /
+<b> about </b>/
 <a href=files/smith-cv.pdf target="_blank">cv</a> /
 [research](research.html) /
 [teaching](teaching.html) /

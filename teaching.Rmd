@@ -10,7 +10,7 @@ theme: minimal
 [about](index.html) /
 <a href=files/smith-cv.pdf target="_blank">cv</a> /
 [research](research.html) /
-teaching /
+<b> teaching</b> /
 [notes](notes.html) /
 <a href="https://github.com/adam-n-smith" target="_blank">github</a>
 </h3>

@@ -9,7 +9,7 @@ theme: minimal
 <h3 class="item">
 [about](index.html) /
 <a href=files/smith-cv.pdf target="_blank">cv</a> /
-research /
+<b> research </b>/
 [teaching](teaching.html) /
 [notes](notes.html) /
 <a href="https://github.com/adam-n-smith" target="_blank">github</a>
@@ -18,7 +18,7 @@ research /
 
 <p class="" style="margin: 33px;"></p>
 
-[Inference for Product Competition and Separable Demand](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2019.1159)\
+<!--[Inference for Product Competition and Separable Demand](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2019.1159)\
 *Marketing Science* (2019) with P. Rossi and G. Allenby
 
 [Demand Models with Random Partitions](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1604360)\
@@ -47,6 +47,40 @@ with T. Kosyakova, M. Pachali, and T. Otter
 with D. Ershov and M. Pachali
 
 A Quasi-Bayes Approach to Nonparametric Demand Estimation\
-with J. Brand
+with J. Brand-->
 
+[Inference for Product Competition and Separable Demand](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2019.1159)\
+A. Smith, P. Rossi, and G. Allenby\
+*Marketing Science* (2019)
 
+[Demand Models with Random Partitions](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1604360)\
+A. Smith and G. Allenby\
+*Journal of the American Statistical Association* (2020)
+
+[Invited Discussion](files/research/centered-partition-discussion.pdf) --- ["Centered Partition Processes: Informative Priors for Clustering"](https://projecteuclid.org/journals/bayesian-analysis/volume-16/issue-1/Centered-Partition-Processes-Informative-Priors-for-Clustering-with-Discussion/10.1214/20-BA1197.full)\
+A. Smith\
+*Bayesian Analysis* (2021)
+
+[Shrinkage Priors for High-Dimensional Demand Estimation](https://link.springer.com/article/10.1007/s11129-022-09260-7)\
+A. Smith and J. Griffin\
+*Quantitative Marketing and Economics* (2023)\
+
+[Optimal Price Targeting](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2022.1387)\
+A. Smith, S. Seiler, and I. Aggarwal\
+*Marketing Science* (2023) 
+
+[Outside Good Utility and Substitution Patterns in Direct Utility Models](https://www.sciencedirect.com/science/article/abs/pii/S1755534523000489)\
+C. Kim, A. Smith, J. Kim, and G. Allenby\
+*Journal of Choice Modelling* (2023)
+
+[Boundaries of Differentiated Product Markets and Retailer Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916922)\
+G. Compiani and A. Smith
+
+[Constrained Heterogeneity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4331470)\
+T. Kosyakova, M. Pachali, A. Smith, and T. Otter
+
+[Learned Complementarity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4925803)\
+D. Ershov, M. Pachali, and A. Smith
+
+A Quasi-Bayes Approach to Nonparametric Demand Estimation\
+J. Brand and A. Smith

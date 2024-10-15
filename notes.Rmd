@@ -11,7 +11,7 @@ theme: minimal
 <a href=files/smith-cv.pdf target="_blank">cv</a> /
 [research](research.html) /
 [teaching](teaching.html) /
-notes /
+<b> notes </b>/
 <a href="https://github.com/adam-n-smith" target="_blank">github</a>
 </h3>
 </div>
