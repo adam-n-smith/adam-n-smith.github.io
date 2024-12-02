@@ -17,24 +17,21 @@ body{
   min-width: 30%;
   max-width: 44em;
   margin: auto;
-  font-size: calc(10pt + 0.1vw);
-  padding-bottom: 2.5%;
+  font-size: calc(10pt + 0);
 }
 
 /* Headers */
 h1{
-  font-size: 24pt;
+/*  font-size: 24pt;*/
+  font-size: calc(24pt + 0.33vw);
   font-weight: 500;
 }
 h2{
-  font-size: calc(10pt + 0.1vw);
+  font-size: calc(12pt + 0.125vw);
   font-weight: 500;
 }
 h3{
   font-size: 12pt;
-  /* font-weight: 400;
-  margin-top: 0;
-  padding-bottom: 10px; */
 }
 b{
   font-weight: 400;

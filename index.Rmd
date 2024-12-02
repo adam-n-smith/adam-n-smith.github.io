@@ -20,13 +20,10 @@ theme: minimal
 
 <div style="text-align:justify">
 
-<!--I am an Assistant Professor of Marketing at the [UCL School of Management](https://www.mgmt.ucl.ac.uk) in London, UK. For the 22/23 and 23/24 academic years, I am on leave from UCL and am working in data science at Google in Mountain View, CA.
--->
 
 I am an Assistant Professor of Marketing at the [UCL School of Management](https://www.mgmt.ucl.ac.uk) in London, UK. In my research, I work on large-scale measurement problems in the areas of pricing, market definition, and personalization. I am also interested in Bayesian methods and computational topics related to hierarchical modeling, shrinkage estimation, and nonparametrics. I hold a BA in Economics, MS in Statistics, and PhD in Marketing from The Ohio State University.
 
 
-<!--Research links: -->
 <a href="https://scholar.google.com/citations?hl=en&user=V48pzb0AAAAJ" target="_blank">Google Scholar</a>, 
 <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2615768" target="_blank">SSRN</a>,
 <a href="https://www.linkedin.com/in/adam-nicholas-smith" target="_blank">LinkedIn</a>

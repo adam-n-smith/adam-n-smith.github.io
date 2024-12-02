@@ -20,21 +20,45 @@ theme: minimal
 
 <div style="text-align:justify">
 
-UCL Data Analytics I (2017-2022)
-[[Textbook]](https://rgreminger.github.io/MSIN0010book/)
+<h2> UCL Data Analytics I (2017-2022) </h2>
 
-- First-year undergraduate methods course in the BSc Management Science program. Topics covered include probability, estimation and testing, linear and logistic regression, classification and regression trees, and clustering. Students become proficient in R.
+First-year undergraduate methods course in the BSc Management Science program. Topics include probability, estimation and testing, linear and logistic regression, classification and regression trees, and clustering. Students become proficient in R.
 
-UCL Marketing Science (2018-2022)
+Textbook: [Data Analytics with R](https://rgreminger.github.io/MSIN0010book/)
 
-- Advanced undergraduate course in the BSc Management Science program. Topics covered include product design, pricing, promotions, user generated content, segmentation / targeting / positioning, and customer lifetime value. Students discuss case studies, read academic research papers, and work with data from real companies to learn how modern analytics can improve marketing practice.
+<h2> UCL Marketing Science (2018-2022) </h2>
 
-LSE Marketing Analytics I (2018)
+Advanced undergraduate course in the BSc Management Science program. Topics include product design, pricing, promotions, user generated content, segmentation, targeting, positioning, and customer lifetime value. Students discuss case studies, read academic research papers, and work with data from real companies to learn how modern analytics can improve marketing practice.
 
-- Master's course in the MSc Marketing program. Topics covered include research designs, questionnaire design, data collection and sampling, data visualization, and statistical inference.
+<h2> LSE Marketing Analytics I (2018) </h2> 
 
-OSU Marketing Research (2015-2016)
+Master's course in the MSc Marketing program. Topics include research designs, questionnaire design, data collection and sampling, data visualization, and statistical inference.
 
-- Advanced undergraduate course in the BS Business Administration program. Topics covered include research designs, questionnaire design, conjoint analysis, data collection and sampling, data visualization, and statistical inference.
+<h2> OSU Marketing Research (2015-2016) </h2>
+
+Advanced undergraduate course in the BS Business Administration program. Topics include research designs, questionnaire design, conjoint analysis, data collection and sampling, data visualization, and statistical inference.
+
+<!--<h2> UCL </h2>
+
+Data Analytics I, BSc Management Science (2017-2022)
+
+- Topics include probability, estimation and testing, linear and logistic regression, classification and regression trees, and clustering. Students become proficient in R.
+- Textbook: [Data Analytics with R](https://rgreminger.github.io/MSIN0010book/)
+
+Marketing Science, BSc Management Science (2018-2022)
+
+- Topics include product design, pricing, promotions, user generated content, segmentation, targeting, positioning, and customer lifetime value. Students discuss case studies, read academic research papers, and work with data from real companies to learn how modern analytics can improve marketing practice.
+
+<h2> LSE </h2>
+
+Marketing Analytics I, MSc Marketing (2018)
+
+- Topics include research designs, questionnaire design, data collection and sampling, data visualization, and statistical inference.
+
+<h2> OSU </h2>
+
+Marketing Research, BS Business Administration (2015-2016)
+
+- Topics include research designs, questionnaire design, conjoint analysis, data collection and sampling, data visualization, and statistical inference.-->
 
 </div>
